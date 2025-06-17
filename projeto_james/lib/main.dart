@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
+////////Todo anão é gay //////////
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
